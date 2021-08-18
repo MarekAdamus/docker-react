@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c69e6cd-3ecb-4948-a64e-448bdbcdf93d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/some.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="\\wsl$\Ubuntu\home\marek\frontend\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wncsJMHoRBMJWTFV3suWPREhWj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Rewsoft/moonee_dev" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\marek\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c69e6cd-3ecb-4948-a64e-448bdbcdf93d" name="Default Changelist" comment="" />
+      <created>1629097998400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629097998400</updated>
+      <workItem from="1629098000524" duration="1020000" />
+      <workItem from="1629189104591" duration="166000" />
+      <workItem from="1629189271629" duration="68000" />
+      <workItem from="1629189358864" duration="208000" />
+      <workItem from="1629189569963" duration="4563000" />
+      <workItem from="1629272236180" duration="17000" />
+      <workItem from="1629272253617" duration="739000" />
+      <workItem from="1629273388482" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="174" key="#Scopes" timestamp="1629189431104">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="174" key="#Scopes/0.0.1920.1032@0.0.1920.1032" timestamp="1629189431104" />
+    <state x="585" y="110" key="CommitChangelistDialog2" timestamp="1629273455171">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="585" y="110" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1629273455171" />
+    <state x="1220" y="274" key="FileChooserDialogImpl" timestamp="1629273512100">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1220" y="274" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1629273512100" />
+    <state x="461" y="158" key="SettingsEditor" timestamp="1629273491273">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="461" y="158" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1629273491273" />
+    <state x="656" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1629189358683">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="656" y="339" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1629189358683" />
+  </component>
+</project>
