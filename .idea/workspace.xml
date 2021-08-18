@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c69e6cd-3ecb-4948-a64e-448bdbcdf93d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile.dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/some.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="2c69e6cd-3ecb-4948-a64e-448bdbcdf93d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,21 +64,34 @@
       <workItem from="1629272236180" duration="17000" />
       <workItem from="1629272253617" duration="739000" />
       <workItem from="1629273388482" duration="26000" />
+      <workItem from="1629273415097" duration="630000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1629273615908</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629273615908</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="174" key="#Scopes" timestamp="1629189431104">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="552" y="174" key="#Scopes/0.0.1920.1032@0.0.1920.1032" timestamp="1629189431104" />
-    <state x="585" y="110" key="CommitChangelistDialog2" timestamp="1629273455171">
+    <state x="585" y="110" key="CommitChangelistDialog2" timestamp="1629273614586">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="585" y="110" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1629273455171" />
+    <state x="585" y="110" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1629273614586" />
     <state x="1220" y="274" key="FileChooserDialogImpl" timestamp="1629273512100">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -93,9 +100,17 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="461" y="158" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1629273491273" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1629273904452">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1629273904452" />
     <state x="656" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1629189358683">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="656" y="339" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1629189358683" />
+    <state x="663" y="307" key="git4idea.merge.GitPullDialog" timestamp="1629273620622">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="663" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1629273620622" />
   </component>
 </project>
