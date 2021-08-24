@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c69e6cd-3ecb-4948-a64e-448bdbcdf93d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docker-compose-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Rewsoft/moonee_dev" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -66,7 +70,9 @@
       <workItem from="1629272236180" duration="17000" />
       <workItem from="1629272253617" duration="739000" />
       <workItem from="1629273388482" duration="26000" />
-      <workItem from="1629273415097" duration="3122000" />
+      <workItem from="1629273415097" duration="3740000" />
+      <workItem from="1629800310844" duration="251000" />
+      <workItem from="1629800564077" duration="2250000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1629273615908</created>
@@ -94,10 +100,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="585" y="110" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1629273614586" />
-    <state x="1220" y="274" key="FileChooserDialogImpl" timestamp="1629273512100">
+    <state x="1220" y="274" key="FileChooserDialogImpl" timestamp="1629800560788">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="1220" y="274" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1629273512100" />
+    <state x="1220" y="274" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1629800560788" />
     <state x="461" y="158" key="SettingsEditor" timestamp="1629273491273">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
