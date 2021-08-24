@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c69e6cd-3ecb-4948-a64e-448bdbcdf93d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docker-compose-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-    </list>
+    <list default="true" id="2c69e6cd-3ecb-4948-a64e-448bdbcdf93d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +66,7 @@
       <workItem from="1629273388482" duration="26000" />
       <workItem from="1629273415097" duration="3740000" />
       <workItem from="1629800310844" duration="251000" />
-      <workItem from="1629800564077" duration="2250000" />
+      <workItem from="1629800564077" duration="2598000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1629273615908</created>
